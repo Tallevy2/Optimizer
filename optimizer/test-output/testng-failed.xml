@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="true">
+  <test name="Test(failed)" parallel="true">
+    <classes>
+      <class name="testng.OptimizerMiniTest">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="optimizerMiniTest"/>
+          <include name="optimizerMiniTest"/>
+          <include name="afterClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testng.OptimizerMiniTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

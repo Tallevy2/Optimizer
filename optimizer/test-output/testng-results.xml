@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Element is Displayed: ]]>
+    </line>
+    <line>
+      <![CDATA[Optimizer is launched]]>
+    </line>
+    <line>
+      <![CDATA[there are only 5 heroes on page]]>
+    </line>
+    <line>
+      <![CDATA[there are 9 Devices on page]]>
+    </line>
+    <line>
+      <![CDATA[Apple iPhone 6]]>
+    </line>
+    <line>
+      <![CDATA[Apple iPhone 5S]]>
+    </line>
+    <line>
+      <![CDATA[Apple iPhone 6 Plus]]>
+    </line>
+    <line>
+      <![CDATA[Apple iPhone 6S]]>
+    </line>
+    <line>
+      <![CDATA[Apple iPhone 6S Plus]]>
+    </line>
+    <line>
+      <![CDATA[Apple iPhone 6 Apple iPhone 6]]>
+    </line>
+    <line>
+      <![CDATA[<br> <img src=C:\root\community\optimizer/test-output/screenshots/2016-03-07-18-23-19-886-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+    </line>
+    <line>
+      <![CDATA[Apple iPhone 5S Apple iPhone 5S]]>
+    </line>
+    <line>
+      <![CDATA[<br> <img src=C:\root\community\optimizer/test-output/screenshots/2016-03-07-18-23-20-118-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+    </line>
+    <line>
+      <![CDATA[Apple iPhone 6 Plus Apple iPhone 6 Plus]]>
+    </line>
+    <line>
+      <![CDATA[<br> <img src=C:\root\community\optimizer/test-output/screenshots/2016-03-07-18-23-20-353-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+    </line>
+    <line>
+      <![CDATA[Apple iPhone 6S Apple iPhone 6S]]>
+    </line>
+    <line>
+      <![CDATA[<br> <img src=C:\root\community\optimizer/test-output/screenshots/2016-03-07-18-23-20-520-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+    </line>
+    <line>
+      <![CDATA[Apple iPhone 6S Plus Apple iPhone 6S Plus]]>
+    </line>
+    <line>
+      <![CDATA[<br> <img src=C:\root\community\optimizer/test-output/screenshots/2016-03-07-18-23-20-697-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34991" started-at="2016-03-07T16:22:46Z" finished-at="2016-03-07T16:23:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34991" started-at="2016-03-07T16:22:46Z" finished-at="2016-03-07T16:23:21Z">
+      <class name="testng.OptimizerMiniTest">
+        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.OptimizerMiniTest@5fd73a9c]" name="beforeClass" is-config="true" duration-ms="4" started-at="2016-03-07T18:22:46Z" finished-at="2016-03-07T18:22:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@163ebb59]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.OptimizerMiniTest@5fd73a9c]" name="beforeMethod" is-config="true" duration-ms="2232" started-at="2016-03-07T18:22:46Z" finished-at="2016-03-07T18:22:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testng.OptimizerMiniTest.optimizerMiniTest() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="optimizerMiniTest()[pri:0, instance:testng.OptimizerMiniTest@5fd73a9c]" name="optimizerMiniTest" duration-ms="32412" started-at="2016-03-07T18:22:48Z" finished-at="2016-03-07T18:23:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Element is Displayed: ]]>
+            </line>
+            <line>
+              <![CDATA[Optimizer is launched]]>
+            </line>
+            <line>
+              <![CDATA[there are only 5 heroes on page]]>
+            </line>
+            <line>
+              <![CDATA[there are 9 Devices on page]]>
+            </line>
+            <line>
+              <![CDATA[Apple iPhone 6]]>
+            </line>
+            <line>
+              <![CDATA[Apple iPhone 5S]]>
+            </line>
+            <line>
+              <![CDATA[Apple iPhone 6 Plus]]>
+            </line>
+            <line>
+              <![CDATA[Apple iPhone 6S]]>
+            </line>
+            <line>
+              <![CDATA[Apple iPhone 6S Plus]]>
+            </line>
+            <line>
+              <![CDATA[Apple iPhone 6 Apple iPhone 6]]>
+            </line>
+            <line>
+              <![CDATA[<br> <img src=C:\root\community\optimizer/test-output/screenshots/2016-03-07-18-23-19-886-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+            </line>
+            <line>
+              <![CDATA[Apple iPhone 5S Apple iPhone 5S]]>
+            </line>
+            <line>
+              <![CDATA[<br> <img src=C:\root\community\optimizer/test-output/screenshots/2016-03-07-18-23-20-118-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+            </line>
+            <line>
+              <![CDATA[Apple iPhone 6 Plus Apple iPhone 6 Plus]]>
+            </line>
+            <line>
+              <![CDATA[<br> <img src=C:\root\community\optimizer/test-output/screenshots/2016-03-07-18-23-20-353-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+            </line>
+            <line>
+              <![CDATA[Apple iPhone 6S Apple iPhone 6S]]>
+            </line>
+            <line>
+              <![CDATA[<br> <img src=C:\root\community\optimizer/test-output/screenshots/2016-03-07-18-23-20-520-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+            </line>
+            <line>
+              <![CDATA[Apple iPhone 6S Plus Apple iPhone 6S Plus]]>
+            </line>
+            <line>
+              <![CDATA[<br> <img src=C:\root\community\optimizer/test-output/screenshots/2016-03-07-18-23-20-697-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- optimizerMiniTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.OptimizerMiniTest@5fd73a9c]" name="afterClass" is-config="true" duration-ms="332" started-at="2016-03-07T18:23:20Z" finished-at="2016-03-07T18:23:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testng.OptimizerMiniTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

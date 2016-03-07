@@ -1,0 +1,13 @@
+com\perfectomobile\optimizer\PerfectoSite.class
+com\perfectomobile\optimizer\WebUpperLogoPannel.class
+com\perfectomobile\optimizer\ShowFullResult.class
+com\perfectomobile\optimizer\WebOptimizerBaseView.class
+com\perfectomobile\optimizer\OperatingSystem.class
+com\perfectomobile\optimizer\FullReport.class
+com\perfectomobile\optimizer\DeviceType.class
+testng\OptimizerMiniTest.class
+com\perfectomobile\optimizer\OptimizerUtils.class
+com\perfectomobile\optimizer\CustomizePreference.class
+com\perfectomobile\optimizer\FormToMarketo.class
+com\perfectomobile\optimizer\SelectLocation.class
+testng\Optimizer.class
