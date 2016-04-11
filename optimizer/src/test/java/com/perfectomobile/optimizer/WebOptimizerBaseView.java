@@ -24,8 +24,8 @@ public class WebOptimizerBaseView  {
 	
 	protected static RemoteWebDriver driver; 
 	/** The url of the local optimizer. */
-	private String url = "http://coverage-optimizer-shortterm-elb-913786431.eu-west-1.elb.amazonaws.com";
-//	private String url = "http://localhost:8080";
+//	private String url = "http://coverage-optimizer-shortterm-elb-913786431.eu-west-1.elb.amazonaws.com";
+	private String url = "http://editor.deveu.com/";
 	/** The device properties. */
 	private HashMap<String, String> deviceProperties;
 	/** The menu panel at the top of the page. */
